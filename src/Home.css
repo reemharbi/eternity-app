@@ -1,0 +1,12 @@
+.hometext {
+    padding-top: 150px;
+    /* padding-bottom: 400px;  */
+}
+
+.slowest {
+    animation-duration: 10s;
+}
+
+.please {
+    min-height: 631px;
+}
