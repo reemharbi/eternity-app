@@ -352,7 +352,7 @@ export default class App extends Component {
     if (this.state.websiteAlive) {
       return (
         <>
-          <HashRouter basename="/eternity">
+          <HashRouter basename="/">
             <Visibility onBottomPassed={this.stickTopMenu} onBottomVisible={this.unStickTopMenu} once={false}>
               <Menu
                 stackable
